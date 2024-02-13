@@ -1,0 +1,33 @@
+_repo: El-cor-del-poble-b-Drama-en-tres-actes_72794
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Iglesias, Ignasi
+    aliases:
+    - Iglésias, Ignasi
+    - Iglesias, Ignacio
+    birthdate: 1871
+    deathdate: 1928
+    gutenberg_agent_id: '56807'
+    url: http://www.gutenberg.org/2009/agents/56807
+    wikipedia: https://ca.wikipedia.org/wiki/Ignasi_Igl%C3%A9sias_i_Pujadas
+description: ''
+gutenberg_issued: '2024-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72794'
+language: ca
+pgterms:marc905: 20240123040342iglsias
+pgterms:marc906: '1902'
+pgterms:marc907: ES
+production_note: Joan Queralt Gil
+publication_note: '  $aBarcelona :$bTip. L''avenç, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catalan drama'
+- !lcc 'PC'
+- GITenberg
+title: 'El cor del poble : $b Drama en tres actes'
+url: http://www.gutenberg.org/ebooks/72794
