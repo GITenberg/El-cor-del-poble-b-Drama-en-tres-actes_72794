@@ -1,5 +1,8 @@
 _repo: El-cor-del-poble-b-Drama-en-tres-actes_72794
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Iglesias, Ignasi
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56807
     wikipedia: https://ca.wikipedia.org/wiki/Ignasi_Igl%C3%A9sias_i_Pujadas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72794#El-cor-del-poble-b-Drama-en-tres-actes
 gutenberg_issued: '2024-01-25'
 gutenberg_type: Text
 identifiers:
